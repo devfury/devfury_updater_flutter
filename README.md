@@ -1,0 +1,1 @@
+# devfury_updater_flutter
